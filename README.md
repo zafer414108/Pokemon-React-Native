@@ -1,7 +1,6 @@
-# PokemonDemo
+# Pokemon React Native Project
 
-Implemented https://www.youtube.com/watch?v=wwOOwhsPKpU
 
-## Demo
+## Screen Gif
 ![HeroCarousel App Demo](PokemonDemo.gif)
 # Pokemon-React-Native
